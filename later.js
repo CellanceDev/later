@@ -1,4 +1,4 @@
-later = function() {
+global.later = function() {
   "use strict";
   var later = {
     version: "1.2.0"
